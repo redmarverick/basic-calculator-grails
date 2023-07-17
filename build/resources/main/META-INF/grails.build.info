@@ -1,0 +1,6 @@
+#Mon, 17 Jul 2023 14:29:33 -0300
+
+info.app.version=0.1
+info.app.name=hello-world
+grails.env=development
+info.app.grailsVersion=5.3.3
